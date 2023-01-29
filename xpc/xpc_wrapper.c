@@ -9,10 +9,10 @@
 #include <stdio.h>
 #include <xpc/xpc.h>
 
-struct PayloadResult{
+typedef struct PayloadResult{
     int length;
     void *bytes;
-};
+} PayloadResult;
 
 
 extern void ReceivedErrorEvent(char* err);
