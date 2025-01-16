@@ -1,4 +1,4 @@
-module github.com/aventurella/go-xpc
+module github.com/Kaustuv1234/go-xpc
 
 go 1.19
 
