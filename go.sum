@@ -1,2 +1,4 @@
+github.com/aventurella/go-xpc v0.0.0-20151127141606-ed0e5b97e699 h1:rOY3mG7rlHshWqOogUUwoYhgMw4CBn/UkcyKXNdzwTI=
+github.com/aventurella/go-xpc v0.0.0-20151127141606-ed0e5b97e699/go.mod h1:YTbgzhdyKHIseyztTO8U4OdA11NyvQAqKZ+9x0ma2Uc=
 github.com/ugorji/go/codec v1.2.8 h1:sgBJS6COt0b/P40VouWKdseidkDgHxYGm0SAglUHfP0=
 github.com/ugorji/go/codec v1.2.8/go.mod h1:UNopzCgEMSXjBc6AOMqYvWC1ktqTAfzJZUZgYf6w6lg=
